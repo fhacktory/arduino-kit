@@ -48,4 +48,4 @@ The Ultrasonic Module HC-SR04 Distance Sensor are 4 pins out of the module: VCC,
 
 Distance = ((Duration of high level)*(Sonic :340m/s))/2
 
-If you want more information, checkout the [reference page of this kit](http://arduino.cc/en/Main/Software).
+If you want more information, checkout the [reference page of this kit](https://drive.google.com/file/d/1KYv2L4qfvGFHA-PhE-QvOXM83vQIpxD-l9bF0hyNlMs_KCz5W3PO5kwdylZ3RCyv4wjRhJFjUCWz3smq/view?usp=sharing).
